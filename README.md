@@ -20,6 +20,10 @@
 
 ## 工具
 
+### 开发支撑
+
+- [sitemap 生成库「sitemap-xmls」](https://github.com/diamont1001/sitemap-xml)
+
 ### 网站管理员工具
 
 - [谷歌网站管理员工具: Google Webmaster Tools](https://www.google.com/webmasters/)
