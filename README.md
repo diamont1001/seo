@@ -22,7 +22,7 @@
 
 ### 开发支撑
 
-- [sitemap 生成库「sitemap-xmls」](https://github.com/diamont1001/sitemap-xml)
+- [sitemap 生成库「sitemap-xmls」](https://github.com/diamont1001/sitemap-xml) 比如适用于大型网站的地图生成
 
 ### 网站管理员工具
 
