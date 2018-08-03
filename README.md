@@ -23,7 +23,7 @@
 ### 开发支撑
 
 - [sitemap 生成库「sitemap-xmls」](https://github.com/diamont1001/sitemap-xml) 比如适用于大型网站的地图生成
-- [基于 node.js 的网站开发原型](https://github.com/diamont1001/egg-seo-demo)
+- [基于 node.js egg 框架的SEO网站开发原型](https://github.com/diamont1001/egg-seo-demo)
 
 ### 网站管理员工具
 
